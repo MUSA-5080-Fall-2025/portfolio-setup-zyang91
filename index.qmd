@@ -1,5 +1,5 @@
 ---
-title: "MUSA 5080 Portfolio"
+title: "MUSA 5080 Portfolio-- Zhanchao Yang (TA)"
 ---
 
 # Welcome to My Portfolio
@@ -7,7 +7,7 @@ title: "MUSA 5080 Portfolio"
 This portfolio documents my learning journey in Public Policy Analytics (MUSA 5080).
 
 ## About This Course
-Advanced spatial analysis and data science for urban planning and public policy.
+Advanced spatial analysis and data science for urban planning and public policy. I took this course last semester with Dr. Delmelle
 
 ## Portfolio Structure
 - **Weekly Notes:** My learning reflections and key concepts
@@ -15,8 +15,8 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[Students will customize this section]
+I am a second year dual degree students in City planning (transportation) and Urban spatial analytics program. I am your TA for MUSA 5080: Public Policy Analytics.  I hold a bachelor degree in geography from Binghamton University (SUNY). I personal interests is to have a cup of coffee and enjoy a coding night. Feel free to email me if you have any questions.
 
 ## Contact
-- Email: [your.email@upenn.edu]
-- GitHub: [@your-username]
+- Email: [zhanchao@upenn.edu]
+- GitHub: [@zyang91]
