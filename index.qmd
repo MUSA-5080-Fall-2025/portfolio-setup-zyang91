@@ -15,7 +15,7 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-I am a second year dual degree students in City planning (transportation) and Urban spatial analytics program. I am your TA for MUSA 5080: Public Policy Analytics.  I hold a bachelor degree in geography from Binghamton University (SUNY). I personal interests is to have a cup of coffee and enjoy a coding night. Feel free to email me if you have any questions.
+I am a second-year dual-degree student in City Planning (Transportation) and the Urban Spatial Analytics program. I am your TA for MUSA 5080: Public Policy Analytics.  I hold a bachelor degree in geography from Binghamton University (SUNY). My personal interests include having a cup of coffee and enjoying a coding night. Feel free to email me if you have any questions.
 
 ## Contact
 - Email: [zhanchao@upenn.edu]
