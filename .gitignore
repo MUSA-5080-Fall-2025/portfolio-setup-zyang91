@@ -1,1 +1,5 @@
 /.quarto/
+.Rproj.user
+
+# mac specific
+.DS_Store

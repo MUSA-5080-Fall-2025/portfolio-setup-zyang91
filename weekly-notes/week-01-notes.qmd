@@ -4,20 +4,20 @@ date: "2025-09-08"
 ---
 
 ## Key Concepts Learned
-- [List main concepts from lecture]
-- [Technical skills covered]
+- How to built a Github profile?
+- How to use Quarto for creating documents?
+- Basics of R programming and RStudio interface
 
 ## Coding Techniques
-- [New R functions or approaches]
-- [Quarto features learned]
+- `tidyverse` package for data manipulation
+- Quarto syntax for document creation
 
 ## Questions & Challenges
-- [What I didn't fully understand]
-- [Areas needing more practice]
+- Setting up GitHub repositories- github pages
+
 
 ## Connections to Policy
-- [How this week's content applies to real policy work]
+- Communicate data findings effectively using Github Pages
 
 ## Reflection
-- [What was most interesting]
-- [How I'll apply this knowledge]
+- Excited to learn more about R and data visualization!
