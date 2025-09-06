@@ -30,6 +30,7 @@ philly_income <- get_acs(
   county = "Philadelphia",
   geometry = TRUE,
   year = 2022,
+  progress = FALSE
 )
 
 # Clean the data
