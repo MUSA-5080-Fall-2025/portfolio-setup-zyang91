@@ -11,16 +11,13 @@ website:
         text: Home
       - text: "Weekly Notes"
         menu:
-          - href: weekly-notes/
-            text: "All Notes"
           - href: weekly-notes/week-01-notes.qmd
             text: "Week 1"
-      - text: "Labs"
+      - text: Assignments
         menu:
-           - href: labs/
-             text: "All Labs"
-           - href: labs/sample-lab.qmd
-             text: "Sample Census Analysis"
+          - href: assignments/assignment_1/assignment1.qmd
+            text: "Assignment 1: Census Data Exploration"
+   
     right:
       - icon: github
         href: https://github.com/MUSA-5080-Fall-2025/portfolio-setup-zyang91
